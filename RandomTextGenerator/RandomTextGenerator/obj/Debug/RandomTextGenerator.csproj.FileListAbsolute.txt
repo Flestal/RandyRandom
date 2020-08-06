@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\bin\Debug\RandomTextGenerator.exe.config
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\bin\Debug\RandomTextGenerator.exe
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\bin\Debug\RandomTextGenerator.pdb
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\obj\Debug\RandomTextGenerator.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\obj\Debug\RandomTextGenerator.Form1.resources
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\obj\Debug\RandomTextGenerator.Properties.Resources.resources
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\obj\Debug\RandomTextGenerator.csproj.GenerateResource.cache
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\obj\Debug\RandomTextGenerator.exe
+D:\Documents\Visual Studio Project\RandomTextGenerator\RandomTextGenerator\obj\Debug\RandomTextGenerator.pdb
