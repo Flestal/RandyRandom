@@ -82,7 +82,6 @@ namespace RandomTextGenerator
                     msg+=MergeChar(a, b, c);
                 }
             }
-            msg += " kimdoeCAT";
             textBox1.Text = msg;
             Clipboard.SetText(msg);
         }
